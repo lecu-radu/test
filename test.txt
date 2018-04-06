@@ -1,1 +1,1 @@
-change 2 for version 1.0.0-SNAPSHOT
+change 1 for version 1.1.0
